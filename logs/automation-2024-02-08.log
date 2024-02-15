@@ -1,0 +1,49 @@
+17:02:40.531 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+17:56:58.699 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+17:57:03.097 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing Around Cognizant------
+17:57:04.138 [main] INFO  testCases.Tc_001_homePageTest - -----Performing validation on Around Cognizant-----
+17:57:04.166 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the count of news-------
+17:57:04.171 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+17:57:07.745 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+17:57:08.907 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+17:57:09.471 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+18:05:30.741 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+18:05:35.101 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing Around Cognizant------
+18:05:36.140 [main] INFO  testCases.Tc_001_homePageTest - -----Performing validation on Around Cognizant-----
+18:05:36.168 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the count of news-------
+18:05:36.172 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+18:05:39.443 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+18:05:42.176 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+18:05:42.876 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+18:05:49.192 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the content of each news-----
+18:06:50.738 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+18:06:55.142 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing Around Cognizant------
+18:06:56.176 [main] INFO  testCases.Tc_001_homePageTest - -----Performing validation on Around Cognizant-----
+18:06:56.192 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the count of news-------
+18:06:56.196 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+18:06:56.821 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+18:06:57.454 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+18:06:57.706 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+18:09:57.290 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+18:10:01.670 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing Around Cognizant------
+18:10:02.713 [main] INFO  testCases.Tc_001_homePageTest - -----Performing validation on Around Cognizant-----
+18:10:02.743 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the count of news-------
+18:10:02.748 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+18:10:05.650 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+18:10:08.102 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+18:10:08.528 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+18:10:15.018 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the content of each news-----
+18:11:11.154 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+18:11:15.616 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing Around Cognizant------
+18:11:17.001 [main] INFO  testCases.Tc_001_homePageTest - -----Performing validation on Around Cognizant-----
+18:11:17.048 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the count of news-------
+18:11:17.053 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+18:11:19.151 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+18:11:19.939 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+18:11:20.231 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+18:13:27.189 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+18:13:31.897 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing Around Cognizant------
+18:13:33.004 [main] INFO  testCases.Tc_001_homePageTest - -----Performing validation on Around Cognizant-----
+18:13:33.051 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the count of news-------
+18:13:33.059 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+18:13:37.260 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 

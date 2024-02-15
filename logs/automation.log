@@ -1,0 +1,35 @@
+14:13:02.593 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+14:13:02.938 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+14:13:03.480 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+14:13:06.220 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+14:41:41.398 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+14:41:41.430 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+14:41:41.449 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+14:41:41.500 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+14:41:48.502 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the 2nd page Screenshot------
+14:41:48.530 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the content of each news-----
+14:41:48.530 [main] INFO  testCases.Tc_001_homePageTest - -----STORING NEWS HEADER AND CONTENT INTO EXCEL-----
+14:41:50.355 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+14:42:23.815 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+14:42:23.835 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+14:42:23.846 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+14:42:23.863 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+14:42:30.871 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the 2nd page Screenshot------
+14:42:30.897 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the content of each news-----
+14:42:30.898 [main] INFO  testCases.Tc_001_homePageTest - -----STORING NEWS HEADER AND CONTENT INTO EXCEL-----
+14:42:32.785 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+22:32:58.321 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen Screenshot------
+22:32:58.753 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+22:34:42.933 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the AroundCognizant screen Screenshot------
+22:34:43.131 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing Around Cognizant------
+22:34:44.165 [main] INFO  testCases.Tc_001_homePageTest - -----Performing validation on Around Cognizant-----
+22:34:44.182 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the count of news-------
+22:34:44.187 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+22:34:47.262 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+22:34:48.678 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+22:34:49.496 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+22:34:56.498 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the 2nd page Screenshot------
+22:34:56.650 [main] INFO  testCases.Tc_001_homePageTest - ------Printing the Header of second page in Excel------
+22:35:14.829 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the content of each news-----
+22:35:14.829 [main] INFO  testCases.Tc_001_homePageTest - -----STORING NEWS HEADER AND CONTENT INTO EXCEL-----
+22:35:15.028 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----

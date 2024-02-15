@@ -1,0 +1,49 @@
+17:57:46.873 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+17:57:47.681 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+17:57:57.696 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the 2nd page Screenshot------
+17:57:57.858 [main] INFO  testCases.Tc_001_homePageTest - ------Printing the Header of second page in Excel------
+17:59:39.601 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the content of each news-----
+17:59:39.602 [main] INFO  testCases.Tc_001_homePageTest - -----STORING NEWS HEADER AND CONTENT INTO EXCEL-----
+17:59:39.709 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+17:59:39.952 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+17:59:43.386 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+17:59:43.499 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+17:59:44.146 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+17:59:45.599 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+17:59:45.693 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+17:59:46.232 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+17:59:47.652 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+17:59:47.868 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+17:59:48.395 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+17:59:51.037 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+17:59:51.142 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+17:59:51.936 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+17:59:54.336 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+18:01:37.846 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen Screenshot------
+18:01:38.054 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the profile screen------
+18:01:42.224 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the AroundCognizant screen Screenshot------
+18:01:42.362 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing Around Cognizant------
+18:01:43.400 [main] INFO  testCases.Tc_001_homePageTest - -----Performing validation on Around Cognizant-----
+18:01:43.419 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the count of news-------
+18:01:43.425 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the header of the news-------
+18:01:46.164 [main] INFO  testCases.Tc_001_homePageTest - -------Capturing the Tool-tips of the news------- 
+18:01:47.150 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing till the scroll-----
+18:01:47.662 [main] INFO  testCases.Tc_001_homePageTest - ------Capturing the Header of second page------
+18:01:57.665 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the 2nd page Screenshot------
+18:01:57.844 [main] INFO  testCases.Tc_001_homePageTest - ------Printing the Header of second page in Excel------
+18:03:40.957 [main] INFO  testCases.Tc_001_homePageTest - -----Capturing the content of each news-----
+18:03:40.957 [main] INFO  testCases.Tc_001_homePageTest - -----STORING NEWS HEADER AND CONTENT INTO EXCEL-----
+18:03:41.102 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+18:03:41.371 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+18:03:44.218 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+18:03:44.484 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+18:03:44.930 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+18:03:46.430 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+18:03:46.716 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+18:03:47.274 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+18:03:49.123 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+18:03:49.207 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+18:03:49.727 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
+18:03:52.313 [main] INFO  testCases.Tc_001_homePageTest - -----NAVIGATING BACK TO COGNIZANT NEWS PAGE-----
+18:03:52.658 [main] INFO  testCases.Tc_001_homePageTest - -----NEWS HEADERS GETTING CLICKED-----
+18:03:53.115 [main] INFO  testCases.Tc_001_homePageTest - -----COMPARING THE NEWS HEADERS-----
